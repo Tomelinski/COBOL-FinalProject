@@ -1,0 +1,5 @@
+E:\Durham College\Year 2 - Semester 2\Classes\Mainframe Development MAFD-4202\Projects\FinalProject\FinalProject3\bin\x86\Debug\FinalProject3.exe
+E:\Durham College\Year 2 - Semester 2\Classes\Mainframe Development MAFD-4202\Projects\FinalProject\FinalProject3\bin\x86\Debug\SAndLProcessing.idy
+E:\Durham College\Year 2 - Semester 2\Classes\Mainframe Development MAFD-4202\Projects\FinalProject\FinalProject3\obj\x86\Debug\FinalProject3.exe
+E:\Durham College\Year 2 - Semester 2\Classes\Mainframe Development MAFD-4202\Projects\FinalProject\FinalProject3\obj\x86\Debug\SAndLProcessing.idy
+E:\Durham College\Year 2 - Semester 2\Classes\Mainframe Development MAFD-4202\Projects\FinalProject\FinalProject3\obj\x86\Debug\SAndLProcessing.obj

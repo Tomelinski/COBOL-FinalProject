@@ -1,0 +1,35 @@
+
+Tom Zielinski, Calvin May     Final: Program 4 - Return Proccessing
+
+                       RETURNED SUMMARY REPORT
+
+TRANS          PAYMENT  STORE  INVOICE        SKU            TAX
+CODE    PRICE   TYPE      #       #           CODE           OWED
+  R     $24.99  CREDIT     1   BD-500102  FLW8H4FW8H4FWF4     $3.25
+  R     $24.99  CREDIT     1   BC-200102  FLW8H4FW8H4FWF4     $3.25
+  R     $29.99  DEBIT      1   EB-230107  WI8HRW8H43FJSHF     $3.90
+  R     $89.99  CREDIT     1   EA-260110  WI8HRW8H43FJSHF    $11.70
+  R     $24.99  CREDIT     2   AE-390102  FLW8H4FW8H4FWF4     $3.25
+  R     $29.99  CASH       2   CE-510035  SDFSKJ84MS09123     $3.90
+  R     $20.00  CASH       2   EA-560215  SDFSKJ84MS09123     $2.60
+  R     $24.99  CREDIT     2   AE-630202  FLW8H4FW8H4FWF4     $3.25
+  R    $124.99  CREDIT     2   CD-740322  F4WO8JFO8W4JFW8    $16.25
+  R     $89.99  CREDIT     4   BE-101510  WI8HRW8H43FJSHF    $11.70
+  R     $20.00  CASH       4   DC-107515  SDFSKJ84MS09123     $2.60
+  R     $24.99  CREDIT     5   DC-114502  FLW8H4FW8H4FWF4     $3.25
+  R     $29.99  CASH      12   EC-126635  SDFSKJ84MS09123     $3.90
+  R     $24.99  CREDIT    12   AC-130612  ASEDRFT987KIMYT     $3.25
+  R     $24.99  CREDIT    12   CB-138602  FLW8H4FW8H4FWF4     $3.25
+
+                       Return Report Summary
+
+    STORE     Total R
+      #       Records
+    STORE  1:       4
+    STORE  2:       5
+    STORE  3:       0
+    STORE  4:       2
+    STORE  5:       1
+    STORE 12:       3
+
+    TOTAL R RECORDS:  15           Tax Owed: $79.30

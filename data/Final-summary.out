@@ -1,0 +1,29 @@
+
+Tom Zielinski, Calvin May           Final: Program 2 - Data Splitting
+
+                               SUMMARY REPORT
+
+TRANSACTION CODE:   S Records   L Records   S & L Records   R Records
+                        69          16            85            15
+                                           TOTAL RECORDS =        100
+
+     TRANSACTIONS PER STORE
+STORE  1:   3,299.87
+STORE  2:   5,199.77
+STORE  3:   1,789.91
+STORE  4:   1,489.95
+STORE  5:   1,389.42
+STORE 12:   9,669.94
+
+
+PAYMENT TYPE:      Cash      Credit      Debit
+S RECORDS:        30.43%     33.33%      36.23%
+L RECORDS:         6.25%      0.00%      93.75%
+
+     RETURNS PER STORE
+STORE  1:  4
+STORE  2:  5
+STORE  3:  0
+STORE  4:  2
+STORE  5:  1
+STORE 12:  3
